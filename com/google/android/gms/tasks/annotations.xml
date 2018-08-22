@@ -1,0 +1,6 @@
+<root>
+    <item
+        name='com.google.android.gms.tasks.Task com.google.android.gms.tasks.Task&lt;TResult&gt; addOnCompleteListener(com.google.android.gms.tasks.OnCompleteListener&lt;TResult&gt;)'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
